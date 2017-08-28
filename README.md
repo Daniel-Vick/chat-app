@@ -24,8 +24,9 @@ README file accordingly.
 
 ## Viewing the app for development
 
-To run the frontend only app use the following command from inside the aero-tiny-chat directory
+To run the frontend only app use the following commands from inside the aero-tiny-chat directory
 run:
 
+    npm install
     yarn start
 
