@@ -1,17 +1,5 @@
 # README
 
-Hello!
-
-As the next step in the AeroFS recruiting process, we'd like you to do a
-take-home development exercise. This exercise should take no longer than a
-couple hours for the basic requirements.
-
-Please send us back your results within the next two weeks--if you've got
-travel or something else coming up and this timetable doesn't work for you,
-just let us know and we'll push that back further.
-
-Good luck, and we hope you have fun with this!
-
 ## What files live where
 
 * `frontend_design_spec.md` has a copy of the information/requirements for this
